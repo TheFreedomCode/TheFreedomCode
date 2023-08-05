@@ -58,4 +58,9 @@ Let's make the world a better place together through the power of open-source te
 <a href="https://medium.com/@vedantkadam541"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://vedant-kadam.web.app/"><img src="https://komarev.com/ghpvc/?username=vedantkadam&style=for-the-badge" /></a>
 
-</p>
+</p>### Check out my Medium Post
+<hr>
+<div align="center">
+README.md last auto generated Sun Aug  6 00:44:27 2023
+<br>
+</div>
