@@ -60,10 +60,8 @@ Let's make the world a better place together through the power of open-source te
 
 </p>
 
-<div align="center">
-README.md last auto generated Wed May 31 18:29:58 2023
+
 <br>
-</div>### Check out my Medium Post
 <hr>
 <div align="center">
 README.md last auto generated Sun Aug  6 00:35:16 2023
