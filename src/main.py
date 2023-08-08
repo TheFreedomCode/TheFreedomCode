@@ -20,6 +20,6 @@ def update_readme_medium_posts(medium_feed, readme_base, join_on):
 
 rss_title = "### Check out my Medium Post" # Anchor for where to append posts
 readme = Path('../README.md').read_text()
-updated_readme = update_readme_medium_posts("https://medium.com/@freedomcode12", readme, rss_title)
+updated_readme = update_readme_medium_posts("https://medium.com/feed/@freedomcode12", readme, rss_title)
 with open('../README.md', "w+") as f:
     f.write(updated_readme + update_footer())
