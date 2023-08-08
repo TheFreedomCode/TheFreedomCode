@@ -8,16 +8,6 @@
 
 TheFreedomCode is an open-source organization dedicated to empowering developers and fostering collaboration in the fields of Artificial Intelligence (AI)/Machine Learning (ML) and Web Development. Our mission is to promote the spirit of freedom and open access to knowledge, tools, and technologies.
 
-## Contributing
-
-We believe in the power of collective intelligence and welcome contributions from developers of all levels. Whether you're a seasoned expert or just getting started, there's a place for you in our community. To contribute, follow these steps:
-
-1. Fork the repository to your GitHub account.
-2. Create a new branch for your feature/fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m "Description of changes"`.
-4. Push your changes to your forked repository: `git push origin feature-name`.
-5. Submit a pull request from your branch to the main repository.
-
 Our maintainers will review your contributions, provide feedback, and work with you to get your code merged into the project.
 
 ## 📜 Code of Conduct
