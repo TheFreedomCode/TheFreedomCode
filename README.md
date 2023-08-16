@@ -31,8 +31,6 @@ All projects under TheFreedomCode are open-source and licensed under the [MIT Li
 We value community engagement and believe it's crucial for the growth of open-source projects. Join our community on the following platforms:
 
 - Website: [FreedomCode Official Site](https://thefreedomcodes.github.io/FreedomCodeSite/)
-- Discord: [TheFreedomCode Discord Server](https://discord.gg/thefreedomcode)
-- Twitter: [@TheFreedomCode](https://twitter.com/TheFreedomCode)
 - LinkedIn: [TheFreedomCode](https://www.linkedin.com/company/thefreedomcode)
 
 Let's make the world a better place together through the power of open-source technology! 🌍✨
